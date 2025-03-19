@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Sbewo/static/css/main.fbaf6f00.css",
-    "main.js": "/Sbewo/static/js/main.2ace455a.js",
+    "main.css": "/Sbewo/static/css/main.369aee6c.css",
+    "main.js": "/Sbewo/static/js/main.22927242.js",
     "index.html": "/Sbewo/index.html",
-    "main.fbaf6f00.css.map": "/Sbewo/static/css/main.fbaf6f00.css.map",
-    "main.2ace455a.js.map": "/Sbewo/static/js/main.2ace455a.js.map"
+    "main.369aee6c.css.map": "/Sbewo/static/css/main.369aee6c.css.map",
+    "main.22927242.js.map": "/Sbewo/static/js/main.22927242.js.map"
   },
   "entrypoints": [
-    "static/css/main.fbaf6f00.css",
-    "static/js/main.2ace455a.js"
+    "static/css/main.369aee6c.css",
+    "static/js/main.22927242.js"
   ]
 }
