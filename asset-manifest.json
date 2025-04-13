@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Sbewo/static/css/main.a9de54a7.css",
-    "main.js": "/Sbewo/static/js/main.3d2d6e96.js",
+    "main.css": "/Sbewo/static/css/main.361a3597.css",
+    "main.js": "/Sbewo/static/js/main.26fae105.js",
     "static/media/remixicon.svg?t=1734404658139": "/Sbewo/static/media/remixicon.df9902a6df13645438e1.svg",
     "static/media/remixicon.eot?t=1734404658139": "/Sbewo/static/media/remixicon.29066d810a74e994be27.eot",
     "static/media/remixicon.ttf?t=1734404658139": "/Sbewo/static/media/remixicon.868d1a768f4762dbcc3e.ttf",
     "static/media/remixicon.woff?t=1734404658139": "/Sbewo/static/media/remixicon.ce82bb240fef24f93f95.woff",
     "static/media/remixicon.woff2?t=1734404658139": "/Sbewo/static/media/remixicon.bb211d855a1864aa5b67.woff2",
     "index.html": "/Sbewo/index.html",
-    "main.a9de54a7.css.map": "/Sbewo/static/css/main.a9de54a7.css.map",
-    "main.3d2d6e96.js.map": "/Sbewo/static/js/main.3d2d6e96.js.map"
+    "main.361a3597.css.map": "/Sbewo/static/css/main.361a3597.css.map",
+    "main.26fae105.js.map": "/Sbewo/static/js/main.26fae105.js.map"
   },
   "entrypoints": [
-    "static/css/main.a9de54a7.css",
-    "static/js/main.3d2d6e96.js"
+    "static/css/main.361a3597.css",
+    "static/js/main.26fae105.js"
   ]
 }
